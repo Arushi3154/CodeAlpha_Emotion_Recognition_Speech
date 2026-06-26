@@ -1,5 +1,4 @@
-# CodeAlpha_Emotion_Recognition_Speech
-```markdown
+
 # Speech Emotion Recognition (Audio Feature Classification)
 
 ## 📌 Project Overview
