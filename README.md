@@ -1,7 +1,7 @@
 
 # Speech Emotion Recognition (Audio Feature Classification)
 
-## 📌 Project Overview
+##  Project Overview
 This project delivers a specialized Machine Learning pipeline focused on audio signal processing and pattern classification. It processes summarized acoustic features to identify and categorize human emotional states (`happy`, `sad`, `angry`, `neutral`) from speech data.
 
 ## 🛠️ Tech Stack & Libraries
