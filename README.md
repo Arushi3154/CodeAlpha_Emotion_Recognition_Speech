@@ -13,7 +13,7 @@ This project delivers a specialized Machine Learning pipeline focused on audio s
 2. **Feature Shifting:** Integrates mathematical shifts across feature spaces to realistically simulate emotional acoustics (e.g., higher average frequency energy signals for high-arousal states like anger vs. suppressed signatures for lower-arousal states like sadness).
 3. **Classification Strategy:** Deploys a high-performance **Random Forest Classifier** utilizing an ensemble of 150 independent decision trees with regulated depth limits to prevent overfitting and maximize generalizability across noisy audio structures.
 
-## 🚀 Execution Instructions
+##  Execution Instructions
 Ensure you are inside the root repository directory, then run:
 ```bash
 python3 -m pip install -r requirements.txt --break-system-packages
